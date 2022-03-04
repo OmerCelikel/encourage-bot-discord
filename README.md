@@ -1,9 +1,9 @@
-# encourage-bot-discord
+# encouraging-bot-discord
  This bot will be there for you when you're sad and need inspiration.
 
 ## Notes
 - The bot will greet you when you starts with "hi", "hello".
-- If you are sad, depressed, he will say words to cheer you up.
+- If you are sad, depressed, it will say words to cheer you up.
 - You can add to these words as "new your sentence".
 - You can see words of encouragement by typing "inspire".
 
