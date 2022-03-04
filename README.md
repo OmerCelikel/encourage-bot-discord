@@ -9,7 +9,7 @@
 
 
 ### Discord Look
-![screenshot1](screenshots/discordLook.png)
+![screenshot1](screenshots/small/discordLook.png)
 
 
 ## Preview
