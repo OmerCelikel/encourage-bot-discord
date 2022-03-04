@@ -9,15 +9,30 @@
 
 
 ### Discord Look
-![screenshot2](screenshots/discordLook.png)
-
-
+![screenshot1](screenshots/discordLook.png)
 
 
 ## Preview
 
-Actions                                                                     | Screenshots
----                                                                         |---
- [Action 1] - *bot greets*                                                  | ![screen1](screenshots/small/hello.png) 
- [Action 2] - *bot encourages*                                              | ![screen1](screenshots/small/encourage.png)
- [Action 3] - *bot inspires*                                                | ![screen1](screenshots/small/inspire.png)
+Actions                                                                    | Screenshots
+---                                                                        |---
+[Action 1] - *bot greets*                                                  | ![screen1](screenshots/small/hello.png) 
+[Action 2] - *bot encourages*                                              | ![screen2](screenshots/small/encourage.png)
+[Action 3] - *bot inspires*                                                | ![screen3](screenshots/small/inspire.png)
+[Action 4] - *add new ecvoureages sentence*                                | ![screen4](screenshots/small/addNew.png)
+[Action 5] - *see the changes*                                             | ![screen5](screenshots/small/seeNew.png)
+
+
+### Created on Replit
+Replit is a simple yet powerful online IDE, Editor, Compiler, Interpreter, and REPL. Code, compile, run, and host in 50+ programming languages.
+https://replit.com/~
+
+![screenshot2](screenshots/small/replitLook.png)
+
+### Bot Lives 7/24
+With [uptimerrobot] you can get 50 monitors with 5-minute checks totally FREE. (https://uptimerobot.com/)
+https://uptimerobot.com/
+
+![screenshot3](screenshots/small/monitoringService.png)
+
+
