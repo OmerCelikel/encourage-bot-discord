@@ -30,7 +30,7 @@ https://replit.com/~
 ![screenshot2](screenshots/small/replitLook.png)
 
 ### Bot Lives 7/24
-With [uptimerrobot] you can get 50 monitors with 5-minute checks totally FREE. (https://uptimerobot.com/)
+With [uptimerrobot](https://uptimerobot.com/) you can get 50 monitors with 5-minute checks totally FREE. 
 https://uptimerobot.com/
 
 ![screenshot3](screenshots/small/monitoringService.png)
